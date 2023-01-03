@@ -203,7 +203,7 @@ section:target {
     text-decoration-style: ;
 }
 #education-img{
-    background-image: cyan;
+    background-image: url(image/education_background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     position: relative
